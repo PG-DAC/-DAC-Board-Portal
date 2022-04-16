@@ -1,0 +1,20 @@
+.body2{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img12.jpg");
+    background-repeat: no-repeat;
+    
+    
+  background-size: cover;
+  }
+
+  .left{
+    position: absolute;
+    left: 400px;
+    width: 100%;
+    
+  }
