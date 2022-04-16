@@ -1,0 +1,105 @@
+{
+    "data": [
+      {
+        "question": "Everthing in React is a ?",
+        "choices": [
+          "Module",
+          "Component",
+          "Package",
+          "Class"
+        ],
+        "answer": "Component"
+      },
+      {
+        "question": "What is ReactJS?",
+        "choices": [
+          "Server side Framework",
+          "User-interface framework",
+          "A Library for building interaction interfaces",
+          " None of These"
+        ],
+        "answer": "A Library for building interaction interfaces"
+      },
+      {
+        "question": "What is the name of React.js Developer ?",
+        "choices": [
+          "Jordan mike",
+          "Jordan Lee",
+          "Jordan Walke",
+          "Tim Lee"
+        ],
+        "answer": "Jordan Walke"
+      },
+      {
+        "question": "Who Develop React.js?",
+        "choices": [
+          "Apple",
+          "Facebook",
+          "Twitter",
+          "Google"
+        ],
+        "answer": "Facebook"
+      },
+      {
+        "question": "ReactJS uses ___ to increase performance?",
+        "choices": [
+          "Virtual DOM",
+          "Original DOM",
+          "Both of above",
+          "None of above"
+        ],
+        "answer": "Virtual DOM"
+      },
+      {
+        "question": "What is the default port for webpack dev server??",
+        "choices": [
+          "3000",
+          "8080",
+          "3306",
+          "8809"
+        ],
+        "answer": "8080"
+      },
+      {
+        "question": "JSX is acronym for  ?",
+        "choices": [
+          "Java Server eXtension",
+          "JavaScript eXtension",
+          "Java Script Extender",
+          "None of above"
+        ],
+        "answer": "JavaScript eXtension"
+      },
+      {
+        "question": "What is bean in Spring ?",
+        "choices": [
+          "A component",
+          "An Object",
+          "A class",
+          "A container"
+        ],
+        "answer": "An Object"
+      },
+      {
+        "question": "What is the basic concept of Spring ?",
+        "choices": [
+          "Factory pattern",
+          "Singleton pattern",
+          "Dependency injection or Inversion of control",
+          "Abstract factory pattern"
+        ],
+        "answer": "Dependency injection or Inversion of control"
+      },
+      {
+        "question": "Which spring module provides the capability of DI or IOC? ?",
+        "choices": [
+          "Spring web",
+          "Core container",
+          "AOP",
+          "Data access"
+        ],
+        "answer": "Core container"
+      }
+      
+    ]
+  }

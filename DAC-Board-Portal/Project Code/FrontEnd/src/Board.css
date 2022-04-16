@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+
+.body{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  background: #000;
+  color: #fff;
+}
+
+.board{
+  display: flex;
+  height: 10vh;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+  width: 100%;
+}
+
+.dac{
+  display: inline-block;
+  font-size: 35px;
+  letter-spacing: 5px;
+  transform-origin: center;
+  text-shadow: 0px 2px 7px #72b3e9;
+  animation: flip 4s infinite linear;
+}
+
+ @keyframes flip{
+  20% {
+    transform: rotatex(360deg);
+  }
+  100% {
+    transform: rotatex(360deg);
+  }
+}
+
+span:nth-child(1){
+  animation-delay: 0.5s;
+}
+span:nth-child(2){
+  animation-delay: 1s;
+}
+span:nth-child(3){
+  animation-delay: 1.5s;
+}
+span:nth-child(4){
+  animation-delay: 0s;
+}
+span:nth-child(5){
+  animation-delay: 2s;
+}
+span:nth-child(6){
+  animation-delay: 2.5s;
+}
+span:nth-child(7){
+    animation-delay: 3s;
+  }
+  span:nth-child(8){
+    animation-delay: 3.5s;
+  }
+  span:nth-child(9){
+    animation-delay: 4s;
+  }
+  
+  
+   

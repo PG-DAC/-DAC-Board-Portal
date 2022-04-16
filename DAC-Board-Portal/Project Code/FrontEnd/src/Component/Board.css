@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+
+.body{
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  background: #000;
+  color: #fff;
+}
+
+.board{
+  display: flex;
+  height: 10vh;
+  align-items: left;
+  justify-content: left;
+  text-align: left;
+  width: 100%;
+}
+
+
+  .register {
+    height: 560px;
+    width:  500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 0 2em;
+    border-radius: 5px;
+    box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
+    overflow: hidden;
+    color: #ffffff;
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(22,147,198,1) 0%, rgba(19,38,79,1) 82%);
+  }
+  
+  .login {
+    height: 560px;
+    width:  500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 0 2em;
+    border-radius: 5px;
+    box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
+    overflow: hidden;
+    color: #ffffff;
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(22,147,198,1) 0%, rgba(19,38,79,1) 82%);
+  }
+  .loginbody {
+    background-image: url(pic.jpg);
+    background-size: cover;
+    background-position:center center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.createAccount button {
+  background-color: #519e8a;
+  color: #fff;
+  border: 2px solid #fff;
+  width: 100%;
+  margin-top: 1em;
+  padding: 8px 0px;
+  font-size: 1em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  margin-bottom: 0.25em;
+}
+
+.createAccount button:hover {
+  color: #519e8a;
+  background-color: #fff;
+  border: 2px solid #519e8a;
+}
+
+.createAccount small {
+  color: #999;
+  font-weight: lighter;
+}
+  
